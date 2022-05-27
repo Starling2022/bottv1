@@ -1,0 +1,36 @@
+{
+    "100050501322349": {
+        "warningLeft": 2,
+        "warningReason": [
+            "non"
+        ],
+        "banned": false
+    },
+    "100004775071822": {
+        "warningLeft": 0,
+        "warningReason": [
+            "cc",
+            "cc",
+            "vc"
+        ],
+        "banned": true
+    },
+    "100071353774280": {
+        "warningLeft": 0,
+        "warningReason": [
+            "ngu",
+            "ngu",
+            "ngi"
+        ],
+        "banned": true
+    },
+    "100067827386026": {
+        "warningLeft": 0,
+        "warningReason": [
+            "óc 2ds",
+            "học 2đ",
+            "ngu"
+        ],
+        "banned": true
+    }
+}
